@@ -1,2 +1,3 @@
-# Healthcare-Call-Analysis
-Capstone project analyzing healthcare emergency call patterns using R, visualization, and trend analysis techniques.
+# Healthcare Call Analysis
+
+This group project analyzes emergency healthcare call patterns using R and real-world data. It includes a written report, a PowerPoint presentation, and R code for data analysis.
